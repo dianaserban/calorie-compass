@@ -1,0 +1,113 @@
+/* CSS for body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS for headings */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+/* CSS for user info, recipe section, and saved recipes section */
+#user-info,
+#ingredientSection,
+#savedRecipesSection,
+#recipeSection {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+}
+
+/* CSS for labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* CSS for inputs and select */
+input[type="text"],
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* CSS for buttons */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; /* Add margin-top for spacing */
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* CSS for result section */
+#result {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* CSS for recipe container */
+.recipe {
+    margin-bottom: 40px;
+}
+
+/* CSS for recipe headings */
+.recipe h3 {
+    color: #333;
+}
+
+/* CSS for recipe images */
+.recipe img {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* CSS for recipe paragraphs */
+.recipe p {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+/* CSS for recipe list */
+.recipe ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* CSS for recipe list items */
+.recipe ul li {
+    margin-bottom: 5px;
+}
+
+/* CSS for saved recipes list */
+#savedRecipes ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* CSS for saved recipes list items */
+#savedRecipes ul li {
+    margin-bottom: 10px;
+}
