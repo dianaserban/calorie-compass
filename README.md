@@ -19,7 +19,7 @@ Step 3: Choose recipes from suggested list (step 2.4) for each meal category bas
 Step 4: Create a visually appealing presentation of the meal plan with recipe details and timing suggestions.<br><br>
 
 <hr>
-
+<br>
 <ol>
 <li><strong>Capture User Information</strong>: The <code>captureUserInfo</code> retrieves user information from the form fields.</li>
 <li><strong>Calculate BMR</strong>: The <code>calculateBMR</code> function calculates the Basal Metabolic Rate based on user information.</li>
