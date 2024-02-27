@@ -16,9 +16,9 @@ Step 4: Display a selection of suggested recipes with relevant information (e.g.
 Step 1: Define basic meal categories (e.g., breakfast, lunch, dinner, snacks).<br>
 Step 2: Create a function to distribute daily calories across meal categories based on user preferences and goals.<br>
 Step 3: Choose recipes from suggested list (step 2.4) for each meal category based on calorie distribution.<br>
-Step 4: Create a visually appealing presentation of the meal plan with recipe details and timing suggestions.<br>
+Step 4: Create a visually appealing presentation of the meal plan with recipe details and timing suggestions.<br><br>
 
-
+<hr>
 
 <ol>
 <li><strong>Capture User Information</strong>: The <code>captureUserInfo</code> retrieves user information from the form fields.</li>
