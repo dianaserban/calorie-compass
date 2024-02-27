@@ -1,18 +1,17 @@
-<strong>Calorie Calculator (JavaScript):</strong><br><br>
-
+<strong>1. Calorie Calculator (JavaScript):</strong><br><br>
 Step 1: Create functions to capture user information (age, gender, height, weight, activity level).<br>
 Step 2: Implement the BMR (Basal Metabolic Rate) formula based on user information.<br>
 Step 3: Calculate daily calorie needs based on BMR and activity level (e.g., multiply BMR by an activity factor).<br>
 Step 4: Display calculated calorie needs to the user in a clear and user-friendly format.<br>
 
-2. Recipe Suggestion (JavaScript + API):<br><br>
+<strong>2. Recipe Suggestion (JavaScript + API):</strong><br><br>
 
 Step 1: Choose a suitable recipe API and learn its documentation. (e.g., Spoonacular)<br>
 Step 2: Create a function to call the API with user preferences (e.g., dietary restrictions, ingredients, keywords).<br>
 Step 3: Parse the API response and filter recipes based on user preferences and calorie content.<br>
 Step 4: Display a selection of suggested recipes with relevant information (e.g., name, image, calories).<br>
 
-3. Meal Plan Generation (JavaScript + logic):<br><br>
+<strong>3. Meal Plan Generation (JavaScript + logic):</strong><br><br>
 
 Step 1: Define basic meal categories (e.g., breakfast, lunch, dinner, snacks).<br>
 Step 2: Create a function to distribute daily calories across meal categories based on user preferences and goals.<br>
