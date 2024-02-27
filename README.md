@@ -1,3 +1,6 @@
+<h3>This is a basic calculator that uses age, gender, height, weight and activity level to calculate the BMR using a well known formula. BMR calculator calculates your basal metabolic rate which is the number of calories required to keep your body functioning at rest, also known as your metabolism. Using this value, a dish will be generated after the user input (for example: tomato, chicken, pork). The favorite dishes will be saved using localStorage and be retrieved even after refreshing the page.</h3>
+<h3>Technologies used: jQuery, HTML, CSS</h3>
+<br><br>                                                                                                                                                                                                                                       
 <strong>1. Calorie Calculator (JavaScript):</strong><br>
 Step 1: Create functions to capture user information (age, gender, height, weight, activity level).<br>
 Step 2: Implement the BMR (Basal Metabolic Rate) formula based on user information.<br>
