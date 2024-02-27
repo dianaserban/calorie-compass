@@ -55,10 +55,17 @@ button {
     cursor: pointer;
     margin-top: 10px; /* Add margin-top for spacing */
 }
-
 button:hover {
-    background-color: #45a049;
+    background-color: #2f8a33;
 }
+/*CSS for delete buttons*/
+.delete-recipe,#clearSavedRecipesBtn{
+    background-color:rgb(218, 25, 25);
+}
+:is(.delete-recipe, #clearSavedRecipesBtn):hover{
+    background-color:#b30101;
+}
+
 
 /* CSS for result section */
 #result {
